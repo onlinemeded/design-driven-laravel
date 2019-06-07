@@ -2,6 +2,11 @@
 
 Something new this way comes...
 
+#### QC Automation on PR
+
+- Travis CI
+- Style CI
+
 #### Sources
 
 ##### Web
