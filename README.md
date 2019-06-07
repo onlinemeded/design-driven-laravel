@@ -11,6 +11,8 @@ Something new this way comes...
 - https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/
 - https://laraveldoctrine.org/
 ##### Books
-- https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
-- https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon/dp/0321834577
-- https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215
+- (Domain Driven Design in PHP)[https://www.amazon.com/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948]
+- (Domain Driven Design, Tackling Complexity in Software)[https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215]
+- (Domain Driven Design, Reference, Definitions, and Summaries)[https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198]
+- (Implementing Domain Driven Design)[https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8]
+- (Domain Driven Design Distilled)[https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S]
