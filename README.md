@@ -15,8 +15,8 @@ Something new this way comes...
 
 ##### Books
 
-- [Domain Driven Design in PHP](https://www.amazon.com/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948) by Carlos Buenosvinos, Christian Soronellas, et al. | Jun 14, 2017
-- [Domain Driven Design, Tackling Complexity in Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans  | Aug 30, 2003
-- [Domain Driven Design, Reference, Definitions, and Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198) by Eric Evans | Sept 22, 2014
-- [Implementing Domain Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8) by Vaughn Vernon  | Feb 6, 2013
-- [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S) by Vaughn Vernon  | Jun 1, 2016
+- [Domain Driven Design in PHP](https://www.amazon.com/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948) by Carlos Buenosvinos, Christian Soronellas, et al. Jun 14, 2017
+- [Domain Driven Design, Tackling Complexity in Software](https://www.amazon.com/Domain-Driven-Design-Tackling-Complexity-Software/dp/0321125215) by Eric Evans Aug 30, 2003
+- [Domain Driven Design, Reference, Definitions, and Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198) by Eric Evans Sept 22, 2014
+- [Implementing Domain Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8) by Vaughn Vernon Feb 6, 2013
+- [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S) by Vaughn Vernon Jun 1, 2016
