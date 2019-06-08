@@ -13,7 +13,7 @@
 ##### Web
 
 - [A Domain Driven Design (DDD) approach to the Laravel Framework](https://medium.com/@ibrunotome/a-domain-driven-design-ddd-approach-to-the-laravel-framework-18906b3dd473) by Bruno Tomé May 24, 2018
-- [Conciliating Laravel and DDD])https://lorisleiva.com/conciliating-laravel-and-ddd/) by Loris Leiva Oct 13, 2017
+- [Conciliating Laravel and DDD](https://lorisleiva.com/conciliating-laravel-and-ddd/) by Loris Leiva Oct 13, 2017
 - [Conciliating Laravel and DDD (part 2)](https://lorisleiva.com/conciliating-laravel-and-ddd-part-2/) by Loris Leiva Feb 19, 2018
 - [How to setup Domain Driven Design (DDD) in a Laravel app.](https://oliverlundquist.com/2018/03/20/how-to-setup-ddd-in-laravel-app.html) by Oliver Lundquist Mar 20, 2018
 - [Doctrine ORM and DDD aggregates](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/) by Matthias Noback Jun 19, 2018
