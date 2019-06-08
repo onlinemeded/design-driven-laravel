@@ -1,6 +1,6 @@
 # Domain Driven Laravel
 
-[![Build Status](https://img.shields.io/travis/onlinemeded/domain-driven-laravel/master.svg?style=flat-square)](https://travis-ci.org/onlinemeded/domain-driven-laravel)
+[![Build Status](https://img.shields.io/travis/onlinemeded/domain-driven-laravel/master.svg)](https://travis-ci.org/onlinemeded/domain-driven-laravel)
 [![Code Climate Maintainability](https://img.shields.io/codeclimate/maintainability/onlinemeded/domain-driven-laravel.svg)](https://codeclimate.com/github/onlinemeded/domain-driven-laravel)
 [![Code Climate Issues](https://img.shields.io/codeclimate/issues/onlinemeded/domain-driven-laravel.svg)](https://codeclimate.com/github/onlinemeded/domain-driven-laravel)
 [![Code Climate Tech Debt](https://img.shields.io/codeclimate/tech-debt/onlinemeded/domain-driven-laravel.svg)](https://codeclimate.com/github/onlinemeded/domain-driven-laravel)
