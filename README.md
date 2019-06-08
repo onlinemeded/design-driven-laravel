@@ -7,7 +7,9 @@ Something new this way comes...
 - Travis CI
 - Style CI
 
-#### Sources
+### Sources
+
+#### Domain Driven Design
 
 ##### Web
 
@@ -25,3 +27,13 @@ Something new this way comes...
 - [Domain Driven Design, Reference, Definitions, and Summaries](https://www.amazon.com/Domain-Driven-Design-Reference-Definitions-Summaries/dp/1457501198) by Eric Evans Sept 22, 2014
 - [Implementing Domain Driven Design](https://www.amazon.com/Implementing-Domain-Driven-Design-Vaughn-Vernon-ebook/dp/B00BCLEBN8) by Vaughn Vernon Feb 6, 2013
 - [Domain Driven Design Distilled](https://www.amazon.com/Domain-Driven-Design-Distilled-Vaughn-Vernon-ebook/dp/B01JJSGE5S) by Vaughn Vernon Jun 1, 2016
+
+#### Other Resources
+
+##### Package Development
+ 
+- https://phppackagedevelopment.com/
+
+##### Test Driven Laravel
+
+- https://testdrivenlaravel.com/
