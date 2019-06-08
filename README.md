@@ -1,9 +1,11 @@
 # Domain Driven Laravel
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/onlinemeded/domain-driven-laravel.svg?style=flat-square)](https://packagist.org/packages/onlinemeded/domain-driven-laravel)
 [![Build Status](https://img.shields.io/travis/onlinemeded/domain-driven-laravel/master.svg?style=flat-square)](https://travis-ci.org/onlinemeded/domain-driven-laravel)
-[![Quality Score](https://img.shields.io/scrutinizer/g/onlinemeded/domain-driven-laravel.svg?style=flat-square)](https://scrutinizer-ci.com/g/onlinemeded/domain-driven-laravel)
-[![Total Downloads](https://img.shields.io/packagist/dt/onlinemeded/domain-driven-laravel.svg?style=flat-square)](https://packagist.org/packages/onlinemeded/domain-driven-laravel)
+[![Code Climate Maintainability](https://img.shields.io/codeclimate/maintainability/onlinemeded/domain-driven-laravel.svg)](https://codeclimate.com/github/onlinemeded/domain-driven-laravel)
+[![Code Climate Issues](https://img.shields.io/codeclimate/issues/onlinemeded/domain-driven-laravel.svg)](https://codeclimate.com/github/onlinemeded/domain-driven-laravel)
+[![Code Climate Tech Debt](https://img.shields.io/codeclimate/tech-debt/onlinemeded/domain-driven-laravel.svg)](https://codeclimate.com/github/onlinemeded/domain-driven-laravel)
+[![Code Climate Code Coverage](https://img.shields.io/codeclimate/coverage/onlinemeded/domain-driven-laravel.svg)](https://codeclimate.com/github/onlinemeded/domain-driven-laravel)
+[![PHP Version Support](https://img.shields.io/travis/php-v/onlinemeded/domain-driven-laravel.svg)](https://codeclimate.com/github/onlinemeded/domain-driven-laravel)
 
 Something new this way comes...
 
