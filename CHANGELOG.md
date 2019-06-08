@@ -1,7 +1,7 @@
 # Changelog
 
-All notable changes to `domain-driven-laravel` will be documented in this file
+All notable changes to `domain-driven-laravel` will be documented in this file with the format as follows
 
-## 1.0.0 - 201X-XX-XX
+## x.x.x - Y-m-d
 
-- initial release
+- description
