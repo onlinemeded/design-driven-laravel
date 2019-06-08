@@ -54,7 +54,7 @@ class DomainDrivenLaravelServiceProvider extends ServiceProvider
 
         // Register the main class to use with the facade
         $this->app->singleton('domain-driven-laravel', function () {
-            return new DomainDrivenLaravel;
+            return new DomainDrivenLaravel();
         });
     }
 }
