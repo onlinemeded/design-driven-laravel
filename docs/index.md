@@ -18,6 +18,9 @@
 - [How to setup Domain Driven Design (DDD) in a Laravel app.](https://oliverlundquist.com/2018/03/20/how-to-setup-ddd-in-laravel-app.html) by Oliver Lundquist Mar 20, 2018
 - [Reflecting architecture and domain in code](https://herbertograca.com/2019/06/05/reflecting-architecture-and-domain-in-code/) by Herberto Graça Jun 5, 2019
 - [Doctrine ORM and DDD aggregates](https://matthiasnoback.nl/2018/06/doctrine-orm-and-ddd-aggregates/) by Matthias Noback Jun 19, 2018
+- [Domain-Driven Design and MVC Architectures](https://blog.fedecarg.com/2009/03/11/domain-driven-design-and-mvc-architectures/) by Frederico Cargnelutti Mar 11, 2009
+- [Domain Driven Design and Development in Practice](https://www.infoq.com/articles/ddd-in-practice/) by Srini Penchikala Jun 12, 2008
+- [Large Scale Laravel Application | Let's face it! Maintaining large PHP application is not easy.](https://medium.com/@munza/large-scale-laravel-application-9d52c3d38e51) by Tawsif Aqib Apr 24, 2017
 
 ##### Print
 
