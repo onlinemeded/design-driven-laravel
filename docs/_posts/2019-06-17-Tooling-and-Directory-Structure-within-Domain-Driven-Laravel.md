@@ -5,11 +5,11 @@ title: "Tooling and Directory Structure of Domain Driven Laravel"
 
 ## Concepts
 
-Command Query Responsibility Segregation (CQRS)
-Repositories
-Entities
-Value Objects
-Factories
+- Command Query Responsibility Segregation (CQRS)
+- Repositories
+- Entities
+- Value Objects
+- Factories
 
 ## Directory Structure
 ```
