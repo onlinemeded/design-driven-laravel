@@ -17,6 +17,7 @@ SomeContext
 +--Commands (warning: Laravel naming convention collision Laravel Command vs DDL Command)
 +--Queries (warning: Laravel naming convension collision Laravel Eloquent Query vs DDL Query)
 +--Repositories
++--Entities
 +--ValueObjects
 +--Factories
 +--Providers (Laravel integration mechanism)
