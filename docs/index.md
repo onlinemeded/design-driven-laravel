@@ -22,6 +22,10 @@
 - [Domain Driven Design and Development in Practice](https://www.infoq.com/articles/ddd-in-practice/) by Srini Penchikala Jun 12, 2008
 - [Large Scale Laravel Application, Let's face it! Maintaining large PHP application is not easy.](https://medium.com/@munza/large-scale-laravel-application-9d52c3d38e51) by Tawsif Aqib Apr 24, 2017
 
+##### Digital
+
+- [Getting Started with DDD When Surrounded by Legacy Systems](http://domainlanguage.com/wp-content/uploads/2016/04/GettingStartedWithDDDWhenSurroundedByLegacySystemsV1.pdf) by Eric Evans, 2015
+
 ##### Print
 
 - [Domain Driven Design in PHP](https://www.amazon.com/Domain-Driven-Design-PHP-Carlos-Buenosvinos/dp/1787284948) by Carlos Buenosvinos, Christian Soronellas, et al. Jun 14, 2017
