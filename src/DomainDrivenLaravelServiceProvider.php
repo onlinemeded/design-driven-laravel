@@ -3,6 +3,7 @@
 namespace OnlineMedEd\DomainDrivenLaravel;
 
 use Illuminate\Support\ServiceProvider;
+use OnlineMedEd\DomainDrivenLaravel\Commands\DomainEventServiceProviderMakeCommand;
 use OnlineMedEd\DomainDrivenLaravel\Commands\DomainMakeCommand;
 
 class DomainDrivenLaravelServiceProvider extends ServiceProvider
@@ -43,6 +44,7 @@ class DomainDrivenLaravelServiceProvider extends ServiceProvider
             // Registering package commands.
             $this->commands([
                 DomainMakeCommand::class,
+                DomainEventServiceProviderMakeCommand::class,
             ]);
         }
     }
