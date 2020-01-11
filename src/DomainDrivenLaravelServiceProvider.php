@@ -41,9 +41,9 @@ class DomainDrivenLaravelServiceProvider extends ServiceProvider
             ], 'lang');*/
 
             // Registering package commands.
-             $this->commands([
-                 DomainMakeCommand::class
-             ]);
+            $this->commands([
+                DomainMakeCommand::class,
+            ]);
         }
     }
 
