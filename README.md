@@ -9,6 +9,10 @@
 
 Something new this way comes...
 
+## Notice
+
+This project is in active development. Relying on `dev-master` is highly discouraged.
+
 ## Installation
 
 You can install the package via composer:
