@@ -2,8 +2,9 @@
 
 namespace OnlineMedEd\DomainDrivenLaravel\DomainSupport\Contract;
 
+use OnlineMedEd\DomainDrivenLaravel\DomainSupport\DomainEventContract;
+
 interface AggregateContract
 {
-    public function record($event, array $context);
-    public function __destruct();
+    public function record(DomainEventContract $event);
 }
